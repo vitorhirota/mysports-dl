@@ -22,8 +22,8 @@ Your activities will be downloaded to an activities folder, created in the same 
 
 #### Useful notes
 
-* TomTom automatic upload to Strava doesn't seem to carry laps information for interval training, but manual tcx file uploads do
-* downloaded files has the following naming convention: <activity type>-<YYYYMMDD>T<HHMMSS>, which in my opinion is preferable than that from the watch, since it can nicely sorted by activity type and date
+* TomTom is yet to export lap info for interval training
+* downloaded files has the following naming convention: `<activity type>-<YYYYMMDD>T<HHMMSS>`, which in my opinion is preferable than that from the watch, since it can nicely sorted by activity type and date
 
 ## License
 
