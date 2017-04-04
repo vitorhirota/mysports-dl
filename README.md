@@ -23,8 +23,8 @@ Your activities will be downloaded to an activities folder, created in the same 
 #### Useful notes
 
 * TomTom is yet to export lap info for interval training
-* downloaded files has the following naming convention: `<activity type>-<YYYYMMDD>T<HHMMSS>`, which in my opinion is preferable than that from the watch, since it can nicely sorted by activity type and date
+* downloaded files has the following naming convention: `<activity type>-<YYYYMMDD>T<HHMMSS>`, which in my opinion is preferable than that from the watch, since it can nicely be sorted by activity type and date
 
 ## License
 
-This script is released under the [MIT License](https://github.com/vitorhirota/tcx-edit/blob/master/LICENSE).
+This script is released under the [MIT License](https://github.com/vitorhirota/mysports-dl/blob/master/LICENSE).
